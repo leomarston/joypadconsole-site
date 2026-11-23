@@ -1,0 +1,5 @@
+# https://joypadconsole.com/robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://joypadconsole.com/sitemap.xml
