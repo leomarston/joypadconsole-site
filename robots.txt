@@ -11,3 +11,5 @@ Sitemap: https://joypadconsole.com/sitemap-no.xml
 Sitemap: https://joypadconsole.com/sitemap-da.xml
 Sitemap: https://joypadconsole.com/sitemap-fi.xml
 Sitemap: https://joypadconsole.com/sitemap-ja.xml
+Sitemap: https://joypadconsole.com/sitemap-it.xml
+Sitemap: https://joypadconsole.com/sitemap-ko.xml
