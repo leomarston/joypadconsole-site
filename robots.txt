@@ -3,3 +3,11 @@ User-agent: *
 Allow: /
 
 Sitemap: https://joypadconsole.com/sitemap.xml
+Sitemap: https://joypadconsole.com/sitemap-de.xml
+Sitemap: https://joypadconsole.com/sitemap-fr.xml
+Sitemap: https://joypadconsole.com/sitemap-nl.xml
+Sitemap: https://joypadconsole.com/sitemap-sv.xml
+Sitemap: https://joypadconsole.com/sitemap-no.xml
+Sitemap: https://joypadconsole.com/sitemap-da.xml
+Sitemap: https://joypadconsole.com/sitemap-fi.xml
+Sitemap: https://joypadconsole.com/sitemap-ja.xml
